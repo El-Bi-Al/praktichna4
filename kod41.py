@@ -1,4 +1,4 @@
-a = list(input("Введіть прізвище: "))
+andriiv = list(input("Введіть прізвище: "))
 
 def a2():
     print('''
@@ -311,7 +311,7 @@ def z2():
 #####
 ''')
 
-for s in a:
+for s in andriiv:
     if s.lower() == "a":
         a2()
     if s.lower() == "b":
